@@ -1,2 +1,2 @@
 ### Personal webpage for academic work
-https://tdbrwn.uk/
+https://tdbrown.uk/
