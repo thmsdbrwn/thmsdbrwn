@@ -33,3 +33,10 @@ a:link {
 a:visited {
     color: #006666;
 }
+a:hover {
+    color: #006666;
+}
+
+a:active {
+    color: #006666;
+}
