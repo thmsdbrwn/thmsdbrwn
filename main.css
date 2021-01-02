@@ -7,18 +7,16 @@ body {
   padding-left: 50px;
   padding-right: 50px;
   font-family: 'Georgia', serif;
+  font-size: 1em;
+  line-height: 1.5em
 }
 p.small {
   font-variant: small-caps;
 }
   h1 {
-  font-size: 2.75em;
+  font-size: 2.5em;
   font-style: italic;
   font-weight: normal;
   letter-spacing: -1px;
   line-height: 1em
-}
-p {
-  font-size: 1em;
-  line-height: 1.2em
 }
