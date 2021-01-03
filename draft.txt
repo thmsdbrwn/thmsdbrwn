@@ -4,6 +4,5 @@
   <p>&nbsp</p> 
 
 
-    <p><a href="https://doi.org/10.1007/s11229-020-03014-2"><i class="material-icons-outlined" style="font-size:0.8em;color:black;">description</i></a> 'Propositions are not representational', <i>Synthese</i> (2021):<br><a href="https://doi.org/10.1007/s11229-020-03014-2">https://doi.org/10.1007/s11229-020-03014-2</a> (open access).</p>
-    
+    <p><a href="https://doi.org/10.1007/s11229-020-03014-2"><i class="material-icons-outlined" style="font-size:1em;color:black;vertical-align:-10%;">description</i></a> 'Propositions are not representational', <i>Synthese</i> (2021):<br> <a href="https://doi.org/10.1007/s11229-020-03014-2">https://doi.org/10.1007/s11229-020-03014-2</a> (open access).</p>
     
