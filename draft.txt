@@ -1,11 +1,13 @@
-  <h2>Other professional activities</h2>
+<!--Professional activities section for Teaching page-->
+<h2>Other professional activities</h2>
     <p>In addition to teaching seminars and workshops, I have experience of guest lecturing and administration (including migrating course materials to a new Virtual Learning Environment).</p>
     <p>I was the Philosophy department's Postgraduate Research Student Representative from 2018-20. This role involved representing students at school-level committee meetings.</p>
   <p>&nbsp</p> 
 
 
+<!--Twitter icon and link-->
 <a href="https://twitter.com/tomdbrwn" target="_blank"><img src="/icons/twitter.svg" alt="Twitter" style="width:1em;height:1em;vertical-align:-10%;"></a> <a href="https://twitter.com/tomdbrwn" target="_blank">Twitter</a> | 
 
 
-    <p><a href="https://doi.org/10.1007/s11229-020-03014-2"><i class="material-icons-outlined" style="font-size:1em;color:black;vertical-align:-10%;">description</i></a> 'Propositions are not representational', <i>Synthese</i> (2021):<br> <a href="https://doi.org/10.1007/s11229-020-03014-2">https://doi.org/10.1007/s11229-020-03014-2</a> (open access).</p>
-    
+<!--Textbox with theme background for paper abstract-->
+<p style="background-color:#f0f5f5;padding:10px 20px;font-size:0.9em">It is often presumed by those who use propositions in their theories that propositions are representational. This paper makes two claims against this presumption. First, it argues that it does not follow from the fact that propositions play the theoretical roles usually attributed to them that they are representational. This conclusion is reached by rebutting three arguments in support of the claim that propositions are representational. This paper then advances the further claim that propositions are not representational. It considers several ways to overcome the difficulties traditionally associated with this claim, particularly how to account for falsity.</p>  
