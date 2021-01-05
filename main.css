@@ -24,7 +24,8 @@ h2 {
   font-size: 1.3em;
   font-weight:normal;
   letter-spacing: -1px;
-  line-height: 0.5em
+  line-height: 0.5em;
+  padding-top: 1.5em;
 }
 a:link {
     color: #006666;
