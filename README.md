@@ -1,5 +1,5 @@
 ### Personal webpage for academic work
-https://tdbrown.uk/
+https://tdbrown.info/
 
 Homepage (index.html)
 Teaching page (teaching.html)
