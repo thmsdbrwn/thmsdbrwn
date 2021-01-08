@@ -1,4 +1,4 @@
-### Simple personal webpage for academic work
+### Simple website for academic work
 https://tdbrown.info/
 
 <ul><li>Stylesheet (main.css)</li>
