@@ -6,12 +6,14 @@
 
 
 <!--Twitter icon and link-->
-<a href="https://twitter.com/tomdbrwn" target="_blank"><img src="/icons/twitter.svg" alt="Twitter" style="width:1em;height:1em;vertical-align:-10%;"></a> <a href="https://twitter.com/tomdbrwn" target="_blank">Twitter</a> | 
+<a href="https://twitter.com/tomdbrwn" target="_blank"><img src="icons/twitter.svg" alt="Twitter" style="width:1em;height:1em;vertical-align:-10%;"></a> <a href="https://twitter.com/tomdbrwn" target="_blank">Twitter</a>
 
 
 <!--Textbox with theme background for paper abstract-->
-<p style="background-color:#f0f5f5;padding:10px 20px;font-size:0.9em">It is often presumed by those who use propositions in their theories that propositions are representational. This paper makes two claims against this presumption. First, it argues that it does not follow from the fact that propositions play the theoretical roles usually attributed to them that they are representational. This conclusion is reached by rebutting three arguments in support of the claim that propositions are representational. This paper then advances the further claim that propositions are not representational. It considers several ways to overcome the difficulties traditionally associated with this claim, particularly how to account for falsity.</p>  
+<p style="background-color:##f5f8f8;padding:10px 20px;font-size:0.9em">It is often presumed by those who use propositions in their theories that propositions are representational. This paper makes two claims against this presumption. First, it argues that it does not follow from the fact that propositions play the theoretical roles usually attributed to them that they are representational. This conclusion is reached by rebutting three arguments in support of the claim that propositions are representational. This paper then advances the further claim that propositions are not representational. It considers several ways to overcome the difficulties traditionally associated with this claim, particularly how to account for falsity.</p>  
+
 
 <!--Paper linked with doi-->
-    <p><a href="https://doi.org/10.1007/s11229-020-03014-2"><img src="https://raw.githubusercontent.com/tdbrwn/tdbrwn/main/icons/paper.svg" alt="Paper" style="width:1em;height:1em;vertical-align:-8%;"></a> 'Propositions are not representational', <i>Synthese</i> (2021):<br>
-    <a href="https://doi.org/10.1007/s11229-020-03014-2">https://doi.org/10.1007/s11229-020-03014-2</a> (open access).</p>
+<p style="background-color:#f5f8f8;padding:10px 15px;font-size:1em;margin-right:15px;"><a href="https://doi.org/10.1007/s11229-020-03014-2"><img src="icons/paper.svg" alt="Paper" style="width:1em;height:1em;vertical-align:-8%;"></a> 'Propositions are not representational', <i>Synthese</i>, 2021.<br>
+    doi: <a href="https://doi.org/10.1007/s11229-020-03014-2">10.1007/s11229-020-03014-2</a> (open access)</p>
+

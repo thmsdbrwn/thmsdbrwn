@@ -1,11 +1,11 @@
-### Personal webpage for academic work
+### Simple personal webpage for academic work
 https://tdbrown.info/
 
-Homepage (index.html)
-Teaching page (teaching.html)
-draft file to store unused material (draft.txt)
-css stylesheet (main.css)
-favicon (favicon.ico)
-icon folder (/icons/)
+<ul><li>Stylesheet (main.css)</li>
+<li>Homepage (index.html)</li>
+<li>Teaching page (teaching.html)</li>
+<li>Draft file to store unused material (draft.txt)</li>
+<li>favicon (favicon.ico)</li>
+<li>icon folder (/icons/)</li></ul>
 
-Feel free to copy for your own use.
+Feel free to fork and adapt for your own use.
