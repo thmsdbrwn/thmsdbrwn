@@ -1,5 +1,7 @@
-### Simple website for academic work
+### Academic profile
 https://tdbrown.info/
+
+I wanted a simple website to host information about research and teaching so I created a simple html webpage with a css stylesheet.
 
 <ul><li>Stylesheet (main.css)</li>
 <li>Homepage (index.html)</li>
