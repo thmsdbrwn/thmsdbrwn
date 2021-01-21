@@ -1,7 +1,7 @@
 ### Academic profile
 https://tdbrown.info/
 
-I wanted a very simple website to host information about research, teaching, and contact details so I wrote my own.
+I wanted a very simple website to host information about research, teaching, and contact details, so I wrote my own.
 
 <ul><li>Stylesheet (main.css)</li>
 <li>Homepage (index.html)</li>
